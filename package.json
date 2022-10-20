@@ -1,0 +1,25 @@
+{
+  "name": "node_users-http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawidmarek95x/node_users-http-server.git"
+  },
+  "keywords": [],
+  "author": "Dawid Marek <dawid.marek95x@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawidmarek95x/node_users-http-server/issues"
+  },
+  "homepage": "https://github.com/dawidmarek95x/node_users-http-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
